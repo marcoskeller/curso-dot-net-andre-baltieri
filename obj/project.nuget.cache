@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y1FCmsY3eUpSFBMN+/ExjwGHarGRHvpia47zLsF5R0AgtDpW0ELGcXQlxbZq5t4tq+f0lwtzO4lidQNq1Q405A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Keller\\Documents\\Cursos\\DotNet_Andre_Baltieri\\Projetos\\primeira-api-data-driven-asp.net\\primeira-api-data-driven-asp.net.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Keller\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Keller\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Keller\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Keller\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Keller\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Keller\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
