@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Y1FCmsY3eUpSFBMN+/ExjwGHarGRHvpia47zLsF5R0AgtDpW0ELGcXQlxbZq5t4tq+f0lwtzO4lidQNq1Q405A==",
+  "dgSpecHash": "Yfxmj63uE556rKdlxD5q8gGvt1RzDIhHobZbrpSelz7RIegFD7i85FDpQsMnVexkBM9Wo2C2TTkgWZakpcBIEA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Keller\\Documents\\Cursos\\DotNet_Andre_Baltieri\\Projetos\\primeira-api-data-driven-asp.net\\primeira-api-data-driven-asp.net.csproj",
+  "projectFilePath": "C:\\Users\\Keller\\Documents\\Cursos\\DotNet_Andre_Baltieri\\curso_dot_net_andre_baltieri\\Projetos\\primeira-api-data-driven-asp.net\\primeira-api-data-driven-asp.net.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Keller\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Keller\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

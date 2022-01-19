@@ -5,6 +5,7 @@ namespace primeira_api_data_driven_asp
     public class Product
     {
         [Key]
+
         public int Id { get; set; }
 
         [Required(ErrorMessage = "Este campo é obrigatório.")]
