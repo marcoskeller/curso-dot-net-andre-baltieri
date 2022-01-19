@@ -1,5 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
-
+using primeira_api_data_driven_asp;
 
 [Route("categories")]
 public class CategoryController : ControllerBase
@@ -11,12 +11,19 @@ public class CategoryController : ControllerBase
         return "GET";
     }
 
+    [HttpGet]
+    [Route("{id:int}")]
+    public string GetById(int id)
+    {
+        return "GET";
+    }
+
 
     [HttpPost]
     [Route("")]
-    public string Post()
+    public Category Post([FromBody] Category model)
     {
-        return "POST";
+        return model;
     }
 
     [HttpPut]
